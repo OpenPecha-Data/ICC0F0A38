@@ -1,0 +1,79 @@
+id: ICC0F0A38
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:07:45.487690'
+last_modified: '2022-06-17T11:07:45.487695'
+parser: null
+source_metadata:
+  title: Averting Obstacles
+  language: nl
+  description: 'A series of apotropaic practices and rites for averting obstacles
+    and dispelling negativity:'
+  volume:
+    fE788:
+      title: The Ultimate, Natural Dispeller of Obstacles
+      base_file: fE788.txt
+      order: 1
+      parent: General
+    f97E9:
+      title: 'Turning Back Obstacles and Adverse Circumstances: A Prayer to Orgyen
+        Rinpoche, Embodiment of All Sources of Refuge'
+      base_file: f97E9.txt
+      order: 2
+      parent: Guru Padmasambhava
+    fEC99:
+      title: The Heart of the Transcendent Perfection of Wisdom
+      base_file: fEC99.txt
+      order: 3
+      parent: Heart Sūtra
+    f6728:
+      title: The ‘Chinese’ Practice of Averting Periodic Obstacles
+      base_file: f6728.txt
+      order: 4
+      parent: Other
+    f6287:
+      title: 'The Rishi''s Maledictory Incantation: An Invocation of Wisdom Mind and
+        Sacred Pledges for Reversing the Disturbances and Agitations of Dark Times
+        In the Form of an Aspiration Prayer'
+      base_file: f6287.txt
+      order: 5
+      parent: Other
+    f94F0:
+      title: A Brief Version of the 'Chinese' Practice of Averting Periodic Obstacles
+      base_file: f94F0.txt
+      order: 6
+      parent: Other
+    f1FB8:
+      title: 'The Adamantine Magical Wheel: Invoking the Profound Pledge of Padmākara,
+        the Glorious Victor, to Avert the Final War'
+      base_file: f1FB8.txt
+      order: 7
+      parent: Repelling Invasion
+    f0CB9:
+      title: 'Declaration of the Power of Truth: A Prayer to Overcome Invading Forces'
+      base_file: f0CB9.txt
+      order: 8
+      parent: Repelling Invasion
+    f7C58:
+      title: A Daily 'Hand-Clapping' Practice of Siṃhamukhā
+      base_file: f7C58.txt
+      order: 9
+      parent: Siṃhamukhā
+    fFE7F:
+      title: Averting Obstacles through Sitātapatrā
+      base_file: fFE7F.txt
+      order: 10
+      parent: Sitātapatrā
+    f7F39:
+      title: A Short Practice for Averting Obstacles through Vajrakīla
+      base_file: f7F39.txt
+      order: 11
+      parent: Vajrakīla
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
